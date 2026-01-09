@@ -12,4 +12,22 @@ This project uses an ESP32 board to read temperature and humidity data from a DH
 🛣️ What I do
 - I learning fundamental of how to use ESP32 board with another components.
 - I learning how to connect ESP32 board with another components.
-  
+
+🛠️ Challenges
+- How to choose hardware components that match with the project.
+- How to make component and coding work together.
+
+📸 Tools I Used
+- VS Code
+- PlatformIO (extension for complie and editor on Vs code.)
+- ESP32 board (ESP-WROOM-32/ NodeMCU-32S)
+- Breadboard
+- Micro SD Card Module
+- Base for ESP32
+- DHT22 Module
+- OLED Graphic Display Module
+- Jumper Wire (Male to Male, Male to Female, Female to Female)
+- Google, YouTube, ChatGPT (for learning and help me during coding)
+
+⚙️ System overview
+DHT22 Module -> ESP32 board -> Micro SD Card Module -> OLED Graphic Display Module
